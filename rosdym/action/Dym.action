@@ -1,0 +1,8 @@
+# Define the goal
+geometry_msgs/Vector3 PositionGoal
+---
+# Define the result
+int32 ok
+---
+# Define a feedback message
+geometry_msgs/Vector3 PositionFeedback

@@ -1,0 +1,19 @@
+#Universidade Federal de Itajuba
+#Luiz Arthur Silva Moura
+
+#Mensagem utilizada para coletar informações
+#de ângulo da juntas (jointpos), velocidade
+#das juntas (jointvel) e torque aplicado
+#(jointfor).
+
+float jointpos1
+float jointpos2
+float jointpos3
+
+float jointvel1
+float jointvel2
+float jointvel3
+
+float jointfor1
+float jointfor2
+float jointfor3
