@@ -13,3 +13,5 @@ For Dynamics you can use rosdym ros package + DYMactionlib.ttt . But this method
 instead.
 
 dymvrep package needs DYMpython.ttt for simulation.
+
+We also recommend using subset.bag for Forward Kinematics and Fuzzy Control. For Dynamics and Inverse Kinematics use subset2.bag
