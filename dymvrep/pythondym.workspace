@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Workspace>
+    <Distribution name="indigo"/>
+    <DefaultBuildSystem value="0"/>
+    <WatchDirectories>
+        <Directory>src</Directory>
+        <Directory>scripts</Directory>
+    </WatchDirectories>
+</Workspace>
