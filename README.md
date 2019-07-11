@@ -16,4 +16,4 @@ instead.
 
 dymvrep package needs DYMpython.ttt for simulation.
 
-We also recommend using subset.bag for Forward Kinematics and Fuzzy Control. For Dynamics and Inverse Kinematics use subset2.bag
+We also recommend using subset.bag in Forward Kinematics and Fuzzy Control. For Dynamics and Inverse Kinematics use subset2.bag
